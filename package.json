@@ -4,6 +4,7 @@
   "description": "Running locally you need 3 terminals open: one for client, one for server, and another one for MongoDB back-end. Below are the steps:",
   "main": "index.js",
   "dependencies": {
+    "concurrently": "^4.1.0",
     "react": "^16.8.6",
     "react-dom": "^16.8.6",
     "react-router-dom": "^5.0.0",
