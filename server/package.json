@@ -10,10 +10,11 @@
     "start": "nodemon index.js",
     "start:prod": "node index.js",
     "test": "jest"
-},
+  },
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "@material-ui/core": "^3.9.3",
     "bcrypt-nodejs": "0.0.3",
     "body-parser": "^1.17.2",
     "cors": "^2.8.3",
